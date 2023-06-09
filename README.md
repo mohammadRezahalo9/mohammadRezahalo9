@@ -1,6 +1,10 @@
 - 👋 Hi, mohammadRezahalo9
 - 👀 I’m interested in programing💻
-- 🌱 I’m currently learning c and puthon and web
+- 🌱 I’m currently learning cpp and python 
+
+🤖I design pcb with altijm designer 
+
+🐧sudo apt install happy life for you
 
 <!---
 mohammadRezahalo9/mohammadRezahalo9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
