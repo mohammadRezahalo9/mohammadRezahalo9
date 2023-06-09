@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing💻
 - 🌱 I’m currently learning cpp and python 
 
-🤖I design pcb with altijm designer 
+🤖I design pcb with altium  designer 
 
 🐧sudo apt install happy life for you
 
